@@ -1,0 +1,1 @@
+This is a project to create a NeuralNetwork (Backpropragation) to diference people's gender. This is an OpenNN project using a Qt framework so to make it run it will be necesary to have this components. 
